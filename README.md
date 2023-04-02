@@ -16,6 +16,8 @@
 Como você pode ver no meu Github, tenho dedicado tempo e esforço para desenvolver habilidades em HTML, CSS e JavaScript. Desde pequenos exercícios de programação até projetos mais complexos, cada novo desafio é uma oportunidade para aprender e crescer. Estou ciente de que ainda tenho muito a aprender, mas acredito que a prática é fundamental para o sucesso na área.
 
 Sinta-se à vontade para conferir meus projetos e compartilhar suas opiniões. Estou sempre aberto a novas ideias e sugestões para melhorar meu trabalho. Agradeço desde já pela sua visita e espero poder contribuir cada vez mais para a comunidade de desenvolvimento front-end.
+
+<p align="center">Segue abaixo alguns projetos desenvolvidos</p>
 </p>
 
 
