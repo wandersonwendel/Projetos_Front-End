@@ -17,9 +17,9 @@ Como você pode ver no meu Github, tenho dedicado tempo e esforço para desenvol
 
 Sinta-se à vontade para conferir meus projetos e compartilhar suas opiniões. Estou sempre aberto a novas ideias e sugestões para melhorar meu trabalho. Agradeço desde já pela sua visita e espero poder contribuir cada vez mais para a comunidade de desenvolvimento front-end.
 
-<p align="center">Segue abaixo alguns projetos desenvolvidos</p>
+<p align="center">Segue abaixo alguns dos projetos</p>
 </p>
 
 
 <h2>Projeto The Last of Us</h2>
-<p> kkkkkkk </p>
+<p></p>
