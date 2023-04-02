@@ -11,10 +11,13 @@
 ##
 
 <h1>Sobre</h1>
-<p></p>
+<p>Olá! Meu nome é Wanderson ✨. Atualmente, estou iniciando minha jornada na área de Desenvolvedor Front-End e estou animado em compartilhar com vocês alguns dos projetos que tenho desenvolvido.
+
+Como você pode ver no meu Github, tenho dedicado tempo e esforço para desenvolver habilidades em HTML, CSS e JavaScript. Desde pequenos exercícios de programação até projetos mais complexos, cada novo desafio é uma oportunidade para aprender e crescer. Estou ciente de que ainda tenho muito a aprender, mas acredito que a prática é fundamental para o sucesso na área.
+
+Sinta-se à vontade para conferir meus projetos e compartilhar suas opiniões. Estou sempre aberto a novas ideias e sugestões para melhorar meu trabalho. Agradeço desde já pela sua visita e espero poder contribuir cada vez mais para a comunidade de desenvolvimento front-end.
+</p>
 
 
 <h2>Projeto The Last of Us</h2>
 <p> kkkkkkk </p>
-
-<h1>Sobre</h1>
