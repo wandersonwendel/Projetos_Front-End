@@ -22,7 +22,4 @@ Segue abaixo alguns dos projetos:
 
 ##
 
-<p align="center">
-<img src="/Projeto - The Last Of Us\src\imgens\logo.png" width="280" alt="Aprenda Front-end">
-</p>
-<h1 align="center"> Projeto - The Last Of Us </h1> <br>
+<h1> Projeto - The Last Of Us </h1> <br>
