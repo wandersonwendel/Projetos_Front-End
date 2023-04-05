@@ -22,4 +22,4 @@ Segue abaixo alguns dos projetos:
 
 ##
 
-<h1 align="center"> Projeto - The Last Of Us </h1> <br>
+<h1> Projeto - The Last Of Us </h1> <br>
