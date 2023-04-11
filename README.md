@@ -8,6 +8,8 @@
  	<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank"></a>  
 </div>
 
+##
+
 <h1>Sobre</h1>
 <p>Olá! Meu nome é Wanderson ✨. Atualmente, estou iniciando minha jornada na área de Desenvolvedor Front-End e estou animado em compartilhar com vocês alguns dos projetos que tenho desenvolvido.
 
