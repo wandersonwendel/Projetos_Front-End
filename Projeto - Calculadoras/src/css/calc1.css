@@ -11,14 +11,24 @@
     text-align: center;
 }
 
-.calculadora{
+.calculadora1{
     position: absolute;
     background-color: rgba(0, 0, 0, 0.8);
     top: 50%;
-    left: 50%;
+    left: 20%;
     transform: translate(-50%, -50%);/* usada para mover o elemento horizontalmente e verticalmente */
     border-radius: 15px;
-    padding: 15px;
+    padding: 20px;
+}
+#resultado{
+    background-color: white;
+    width: 212px;
+    height: 30px;
+    margin: 5px;
+    font-size: 25px;
+    color: black;
+    text-align: right;
+    padding: 5px;
 }
 
 .botao{
@@ -29,7 +39,7 @@
     background-color: rgb(31, 31, 31);
     color: white;
     border: none;
-    margin: 3px;
+    margin: 1px;
 }
 
 .botao:hover{
@@ -42,19 +52,9 @@
 
 #igual{
     height: 106px;
+    background-color: #ff7300;
 }
 
 #zero{
     width: 106px;
-}
-
-#resultado{
-    background-color: white;
-    width: 214px;
-    height: 30px;
-    margin: 5px;
-    font-size: 25px;
-    color: black;
-    text-align: right;
-    padding: 5px;
 }
