@@ -30,5 +30,15 @@ body{
 }
 
 .logo{
+    font-size: 2em;
+    font-family: 'Poppins', sans-serif;
+    user-select: none;
+    color: #fff;
+}
+
+.navLinks a{
+    position: relative;
+    font-size: 1em;
+    font-family: 'Poppins', sans-serif;
     color: #fff;
 }
