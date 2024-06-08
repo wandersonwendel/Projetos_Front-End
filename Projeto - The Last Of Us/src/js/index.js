@@ -38,7 +38,7 @@ function selecionarBotaoCarrossel(botao) {
 
 function esconderImagemAtiva() {
     const imagemAtiva = document.querySelector('.ativa');
-    imagemAtiva.classList.remove('ativa'); /* Busca a imagem com a classe "ativa". Após isso, remove essa classe desta imagem */
+    imagemAtiva.classList.remove('ativa') /* Busca a imagem com a classe "ativa". Após isso, remove essa classe desta imagem */
 }
 
 function desativarBotaoSelecionado() {
